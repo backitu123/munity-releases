@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "Munity Beta is live",
+      "date": "2026-04-23",
+      "tag": "BETA",
+      "summary": "Server is up and open for testing. All progress wipes before full launch."
+    },
+    {
+      "title": "Scurrius and Yama reworks",
+      "date": "2026-04-22",
+      "tag": "PATCH",
+      "summary": "Scurrius is now a proper 3-phase fight. Yama glyphs swap cleanly, Judge bug fixed. Yama takes +20% from demonbane and +50% from water spells."
+    },
+    {
+      "title": "Combat, specs and interfaces",
+      "date": "2026-04-22",
+      "tag": "PATCH",
+      "summary": "Tonalztics Division special added. Purging Staff demonbane 20% to 40% and stacks with Mark of Darkness. Blue Moon Frost Storm and Weapon Freeze reworked."
+    },
+    {
+      "title": "Moons of Peril and Hueycoatl",
+      "date": "2026-04-17",
+      "tag": "NEW",
+      "summary": "New bosses: Blood Moon, Blue Moon, Eclipse Moon, The Hueycoatl. New gear: Blue Moon Spear, Soulflame Horn, Oathplate set, Sunlight Crossbow."
+    }
+  ]
+}
