@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "Moons collection log + Lunar Chest",
+      "date": "2026-08-04",
+      "tag": "NEW",
+      "summary": "Moons of Peril collection log page is in. The Lunar Chest now works like the raid chests: kill moons, open it in the Ancient Shrine, take or bank your loot."
+    },
+    {
+      "title": "Moons boss HP bars + kill checklist",
+      "date": "2026-08-02",
+      "tag": "PATCH",
+      "summary": "All three Moons show the boss health overlay, and a checklist tracks your kills per trip. Eclipse clone phase and searing rays polished. Upgrade table examine fixed."
+    },
+    {
+      "title": "Blood Moon & Eclipse Moon full fights",
+      "date": "2026-07-30",
+      "tag": "NEW",
+      "summary": "Both moons now run their complete fights: Blood Rain, the jaguar heal race, the Moon Shield and the clone phase. Achievements system is live."
+    },
+    {
+      "title": "Content and fixes batch",
+      "date": "2026-07-17",
+      "tag": "PATCH",
+      "summary": "Bolt pouch, three elven shops, quiver ammo pickup, GE tax 2%, upgrade table rework, and a big round of combat and skilling corrections."
+    },
+    {
+      "title": "The Maggot King",
+      "date": "2026-07-09",
+      "tag": "NEW",
+      "summary": "New boss from The Blood Moon Rises in his Vampyrium lair under Castle Drakan, with 30+ new items ported from the update."
+    },
+    {
+      "title": "Sol Heredit, Prestige and more",
+      "date": "2026-06-28",
+      "tag": "NEW",
+      "summary": "Sol Heredit is a real fight with a reward chest. Prestige system, redesigned teleport menu, smarter drop viewer, and hundreds of fixes."
+    },
+    {
+      "title": "Pre-launch audit sweep",
+      "date": "2026-06-14",
+      "tag": "PATCH",
+      "summary": "Big cleanup round: dupe and security fixes, drop table corrections, collection log repairs, and the Inferno completion reward."
+    },
+    {
+      "title": "Yama gear and item fixes",
+      "date": "2026-05-18",
+      "tag": "PATCH",
+      "summary": "Oathplate and more endgame gear ported in, item stats corrected across the board, and a round of interface and bank fixes."
+    },
+    {
+      "title": "Sigils and the Forge of Exchange",
+      "date": "2026-05-06",
+      "tag": "NEW",
+      "summary": "The sigil system arrives with the Codex and the Forge of Exchange, plus the new welcome and starter task screens."
+    },
+    {
       "title": "Munity Beta is live",
       "date": "2026-04-23",
       "tag": "BETA",
