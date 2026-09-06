@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Shops, teleports and Ghommal's lucky charms",
+      "date": "2026-09-06",
+      "tag": "NEW",
+      "summary": "Shops restocked and the teleports reworked. Ghommal's lucky ring is in: 10% chance to heal 10 on a kill, 1.5x boss points, 4% drop rate. Buy the penny from the Boss points Store and upgrade a ring of wealth (i) into one."
+    },
+    {
+      "title": "Clue scrolls point where they should",
+      "date": "2026-09-06",
+      "tag": "PATCH",
+      "summary": "Map clues were sending you to the wrong spot about one step in five, which is fixed. We went through every other step too and pulled the ones you could not finish, like anagrams no clue helper recognised and NPCs that were not in the game. Music steps used to ask for tracks you had no way to get, so all music is unlocked."
+    },
+    {
+      "title": "Town Board reworked",
+      "date": "2026-09-03",
+      "tag": "PATCH",
+      "summary": "There's a 20 level ladder behind the board now, with rewards on nine of them and a permanent 3% drop rate at the top. Town Points have somewhere to go too. Spend them at the Exchange on rerolls, an extra task slot, or wiping the board for a fresh set. Tasks and targets were redone as well."
+    },
+    {
+      "title": "Every skilling teleport is on the menu",
+      "date": "2026-08-30",
+      "tag": "PATCH",
+      "summary": "41 of the 47 skilling teleports could only be reached by typing a search. They are all listed now. The dead Misc button became Recent on every spellbook, and the dungeon entrance teleports go where they say instead of claiming Edgeville."
+    },
+    {
+      "title": "Boss mechanics switched on",
+      "date": "2026-08-29",
+      "tag": "PATCH",
+      "summary": "Dagannoth Kings spawn their spinolyps, so the moat is a threat instead of scenery. Bryophyta summons her growthlings. Abyssal Sire's last form is properly tanky and swings at the right speed, the ToA Wardens are back on their real timing, and Doom's rock knocks you off your tile. Eleven bosses shared between slayer and raids were also blocking Combat Achievements for everyone, which is sorted."
+    },
+    {
+      "title": "Drop rate bonuses now actually help",
+      "date": "2026-08-29",
+      "tag": "PATCH",
+      "summary": "Every drop rate source was checked against what it claimed. The bonus is applied the right way round now, so the rarest drops on over a thousand tables are reachable again. Kills count every time something dies rather than only the first, so respawns build your rates properly. Two boss tables were also handing out uniques twice as often as they should."
+    },
+    {
+      "title": "Monsters fight back properly now",
+      "date": "2026-08-28",
+      "tag": "PATCH",
+      "summary": "418 monsters around the world were going down in a single hit, cave horrors among them, and another 55 were attacking at the wrong speed. They all have their real stats."
+    },
+    {
       "title": "Moons collection log + Lunar Chest",
       "date": "2026-08-04",
       "tag": "NEW",
@@ -49,10 +91,10 @@
       "summary": "Oathplate and more endgame gear ported in, item stats corrected across the board, and a round of interface and bank fixes."
     },
     {
-      "title": "Sigils and the Forge of Exchange",
+      "title": "Sigils reworked, and the Crucible of Conviction",
       "date": "2026-05-06",
-      "tag": "NEW",
-      "summary": "The sigil system arrives with the Codex and the Forge of Exchange, plus the new welcome and starter task screens."
+      "tag": "PATCH",
+      "summary": "The sigil system got a rework, with the Codex and the Crucible of Conviction alongside it. New welcome and starter task screens too."
     },
     {
       "title": "Munity Beta is live",
