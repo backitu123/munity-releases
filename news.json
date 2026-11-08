@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "title": "The Fractured Archive",
+      "date": "2026-11-07",
+      "tag": "NEW",
+      "summary": "The new raid is in. Start a party at the lobby, pick your path and work through the rooms. All eight bosses fight the way they do in the real raid, with the vault, the records room and its capes, the Quartermaster's shop, and the rewards: the Obligator, the Rondache, ascension bolts, Zeal and the pets."
+    },
+    {
+      "title": "Weapon specials and passives match OSRS",
+      "date": "2026-11-02",
+      "tag": "PATCH",
+      "summary": "Every weapon special, passive and set effect was checked against OSRS and corrected. Melee passives were redone, so the salve amulet replaces the slayer helmet bonus instead of stacking. Magic damage is additive, the twisted bow scales the right way, and monsters defend against light, standard and heavy ranged separately like OSRS."
+    },
+    {
+      "title": "The game and client are up to date",
+      "date": "2026-10-28",
+      "tag": "NEW",
+      "summary": "We brought the game and client up to date with OSRS again at the end of October. RuneLite's plugins recognise our monsters, items and clues properly now, so the slayer counter, the clue helper and the loot tracker all work, and the newest gear sits where the wiki says it does. Your launcher re-downloads the game files once."
+    },
+    {
+      "title": "Hunter: falconry, butterflies and Varlamore",
+      "date": "2026-10-24",
+      "tag": "NEW",
+      "summary": "Falconry and butterfly netting are built. Jerboas, pyre foxes, sunlight and moonlight moths and moonlight antelopes are catchable, maniacal monkeys can be trapped in Glough's Laboratory, and five kebbits can be tracked. A pile of trap bugs went with it: traps laid from a stack are no longer lost, and deadfalls asked for a level eight too high."
+    },
+    {
+      "title": "Four agility courses and the Brimhaven arena",
+      "date": "2026-10-21",
+      "tag": "NEW",
+      "summary": "Shayzien, Colossal Wyrm, Werewolf and Ape Atoll are built, each with teleports. The Brimhaven Agility Arena is in with its traps, pit falls, plank rotation, monkey bars and darts."
+    },
+    {
+      "title": "Slayer monsters, tasks and a task portal",
+      "date": "2026-10-19",
+      "tag": "NEW",
+      "summary": "Seven more Slayer monsters are in with their caves, drops and tasks. Killerwatt, molanisk, terror dog, brine rat and elf tasks are assignable again, and Konar names Vampyre and Warped creature tasks. A portal at home teleports you to your task for 100,000 coins, free for Extreme Donators and up."
+    },
+    {
+      "title": "Skilling checked against the wiki",
+      "date": "2026-10-16",
+      "tag": "PATCH",
+      "summary": "Experience formulas, cooking burn levels, gathering success, combination runes and the Ourania altar all match OSRS now. Gathering stays twice as generous as OSRS, but the formulas underneath are the real ones. Birdhouses are fixed: a part-filled one used to eat your seeds."
+    },
+    {
+      "title": "Crucible values, death values and the Upgrade Table",
+      "date": "2026-10-11",
+      "tag": "PATCH",
+      "summary": "Death values were rebuilt on real OSRS prices. Crucible values were redone by boss tier, so GWD and the Dagannoth Kings came down and Corporeal Beast's sigils went up. Upgrade Table items hold what went into them, dismantling asks first and tells you the cost, and every attempt is recorded, so if it looks like the table ate something we can check."
+    },
+    {
+      "title": "Ironman and group ironman",
+      "date": "2026-10-05",
+      "tag": "PATCH",
+      "summary": "Hardcore Iron Men keep their items when they die outside the Wilderness and only lose the status, like OSRS. A Group Iron Man can loot a group member, a portal at home takes you back to The Node, and leaving a group now gives you the real choice between staying ranked, going unranked or becoming a regular player."
+    },
+    {
+      "title": "Three temporary scrolls",
+      "date": "2026-10-02",
+      "tag": "NEW",
+      "summary": "Droprate, Harmful (+10% damage against monsters for 30 minutes) and Double drops (a 25% chance per kill to get the kill loot again, 30 minutes). They stack, and each one shows its countdown in My Boosts."
+    },
+    {
+      "title": "New gear and a world boss",
+      "date": "2026-09-29",
+      "tag": "NEW",
+      "summary": "King's barrage and the Hallowfell are in with their projectiles and passives, the Antler guard is equippable and in the Vote Store, and a Gemstone Crab world boss was added with its teleport row. Seeking arrows are tradeable in every tier with proper stack models."
+    },
+    {
+      "title": "Collection log, music and the skill guide",
+      "date": "2026-09-27",
+      "tag": "PATCH",
+      "summary": "Every music track unlocks and plays, Varlamore onwards included, and 104 of them start in the right places. Collection log pages draw their headers again and reopen properly, the modern skill guide is in behind its OSRS-style setting, and the bank and deposit box had a round of fixes."
+    },
+    {
+      "title": "Boss fixes across the board",
+      "date": "2026-09-24",
+      "tag": "PATCH",
+      "summary": "Hueycoatl body segments move and crumble instead of standing frozen, its braziers light and its pillars charge at the right rate. Nex switches target every third attack and lost a prayer lockout it never had, Araxxor rolls its table at the stated chances with supplies and seeds back, and wilderness bosses charge their entry fee properly instead of once ever."
+    },
+    {
+      "title": "551 items had the wrong stats",
+      "date": "2026-09-21",
+      "tag": "PATCH",
+      "summary": "551 equippable items had the wrong bonuses and 398 of those had none at all, which is fixed. Ornament kits were deleting the stats of the gear they painted, heavy armour was giving mages a magic bonus instead of a penalty, and 206 items that were stronger than their OSRS versions came back in line."
+    },
+    {
+      "title": "Monster stats, and the animations they were missing",
+      "date": "2026-09-17",
+      "tag": "PATCH",
+      "summary": "2,676 monster stats moved to OSRS values: hitpoints, attack speed, max hit and bonuses. 672 monsters were missing their attack, block or death animations and have them now, and 42 were attacking with the wrong style."
+    },
+    {
+      "title": "Birdhouses, traps and the Warriors Guild",
+      "date": "2026-09-13",
+      "tag": "PATCH",
+      "summary": "Birdhouses were a mess: a part-filled one ate your seeds, a seeded one could never read full, and the timer ignored your rank. Hunter traps got a pass too, and in the Warriors Guild half the catapult buttons and the Defensive dummy never worked."
+    },
+    {
       "title": "Shops, teleports and Ghommal's lucky charms",
       "date": "2026-09-06",
       "tag": "NEW",
@@ -40,7 +136,13 @@
       "title": "Monsters fight back properly now",
       "date": "2026-08-28",
       "tag": "PATCH",
-      "summary": "418 monsters around the world were going down in a single hit, cave horrors among them, and another 55 were attacking at the wrong speed. They all have their real stats."
+      "summary": "418 monsters around the world were going down in a single hit, cave horrors among them, and another 55 were attacking at the wrong speed. They now all have their real stats."
+    },
+    {
+      "title": "Royal Titans rebuilt",
+      "date": "2026-08-14",
+      "tag": "PATCH",
+      "summary": "The Royal Titans fight barely ran before and has been rebuilt: the walls, the telegraphs, the stomps, the movement and the safe tile all work now. Yama had a long accuracy pass alongside it, from the meteor to the shadow waves crossing in the middle."
     },
     {
       "title": "Moons collection log + Lunar Chest",
@@ -76,7 +178,7 @@
       "title": "Sol Heredit, Prestige and more",
       "date": "2026-06-28",
       "tag": "NEW",
-      "summary": "Sol Heredit is a real fight with a reward chest. Prestige system, redesigned teleport menu, smarter drop viewer, and hundreds of fixes."
+      "summary": "Sol Heredit is now a real fight with a reward chest. Prestige system, redesigned teleport menu, smarter drop viewer, and dozens of fixes."
     },
     {
       "title": "Pre-launch audit sweep",
