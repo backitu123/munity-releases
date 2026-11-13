@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Fractured Archive: November changes and OSRS loot",
+      "date": "2026-11-13",
+      "tag": "PATCH",
+      "summary": "The raid follows Jagex's 11 November update, with solo and duo kept as they were. Loot uses Jagex's published figures: the unique is 1 in 14 solo or duo and better with more players, down to 1 in 7.5 for eight, and dying costs part of your own share instead of making it harder for the team. During the beta a team wipe still keeps your items."
+    },
+    {
+      "title": "Fractured Archive fixes from the first runs",
+      "date": "2026-11-13",
+      "tag": "PATCH",
+      "summary": "The party display survives the fades and its timer counts the whole raid. Bork walks round the Smorks, the Guardian is solid on the ground, Xarth's pillars all come down, and Ocellus no longer sticks to his tank. The vault's chests and braziers are there as you walk in, and your own chest sparkles."
+    },
+    {
+      "title": "Client: 117 HD update and a Drop Viewer",
+      "date": "2026-11-13",
+      "tag": "NEW",
+      "summary": "117 HD is updated, with new textures and lighting for the Fractured Archive and a fix for Ocellus's floor vanishing. The casket button in the sidebar opens a Drop Viewer for any monster or item. Five hub plugins that send your account data to outside sites are hidden. Your launcher downloads the new client once."
+    },
+    {
+      "title": "About a hundred small things matched to OSRS",
+      "date": "2026-11-10",
+      "tag": "PATCH",
+      "summary": "We compared bosses and skills against recordings of OSRS and fixed the messages, animations and effects that differed. The Abyssal Sire, Araxxor, Jad, Corp and many more fight as they look in OSRS, skilling messages read the same, and a Barrows chest with no kills always gives its loot now."
+    },
+    {
       "title": "The Fractured Archive",
       "date": "2026-11-07",
       "tag": "NEW",
