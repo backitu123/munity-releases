@@ -22,7 +22,7 @@
       "title": "About a hundred small things matched to OSRS",
       "date": "2026-11-10",
       "tag": "PATCH",
-      "summary": "We compared bosses and skills against recordings of OSRS and fixed the messages, animations and effects that differed. The Abyssal Sire, Araxxor, Jad, Corp and many more fight as they look in OSRS, skilling messages read the same, and a Barrows chest with no kills always gives its loot now."
+      "summary": "We fixed about a hundred messages, animations and effects on bosses and skills that didn't match OSRS. The Abyssal Sire, Araxxor, Jad, Corp and many more fight as they look in OSRS, skilling messages read the same, and a Barrows chest with no kills always gives its loot now."
     },
     {
       "title": "The Fractured Archive",
